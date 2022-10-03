@@ -1,4 +1,2 @@
-
-
-## Recon.sh
-recon.sh uses assestfinder to enumerate subdomains, then awk to sort duplicate entries then feeds the output to httprobe to probe for working http servers,
+# recon Automation
+## most of these are for personal use because I got tried of typing in commands 
